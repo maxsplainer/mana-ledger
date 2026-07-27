@@ -1,0 +1,37 @@
+:root {
+
+  /* ---------- COLORS ---------- */
+
+  --color-background: #f5f6f2;
+  --color-surface: #ffffff;
+  --color-surface-soft: #fbfcfa;
+
+  --color-text: #17211c;
+  --color-text-secondary: #66706a;
+
+  --color-primary: #2d8f4d;
+  --color-accent: #ec5b24;
+
+  --color-success: #27964a;
+
+  /* ---------- RADIUS ---------- */
+
+  --radius-small: 14px;
+  --radius-medium: 22px;
+  --radius-large: 30px;
+
+  /* ---------- SPACING ---------- */
+
+  --space-1: 8px;
+  --space-2: 12px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 32px;
+  --space-6: 48px;
+
+  /* ---------- SHADOW ---------- */
+
+  --shadow-card:
+    0 14px 35px rgba(20, 34, 27, 0.08);
+
+}
